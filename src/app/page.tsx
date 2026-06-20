@@ -1012,6 +1012,9 @@ export default function Home() {
                 <span>&copy; {new Date().getFullYear()} Shree. All rights reserved.</span>
                 <span>Designed with elegance in Visakhapatnam</span>
               </div>
+              <div className="text-center mt-6 text-[8px] font-sans text-gray-400/50 font-light tracking-widest uppercase">
+                Created by Saman
+              </div>
             </footer>
           </motion.div>
         )}
